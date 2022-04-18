@@ -1,6 +1,10 @@
-## Your Name
+## Gawain Hewitt
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I love to make things. For the last 20 years this has been as a professional musician and artist, and in recent years I have found myself increasingly using code in my work, and loving it. Loving the creativity, the logic and the act of being a creator rather than a consumer in the digital world. With this in mind in April 2022 I enrolled at Makers Academy and started my path to being a developer.
+
+I am particarly proud of my work which incorperates code and creativity. Projects I have worked on have been commissioned for and/or shown at Wigmore Hall, City of London Sinfonia, the V&A, The London Philharmonic Orchestra and Tate Modern. I have been part of teams that won hackathons at Berlin and Stockholm Music Tech Fest and in 2021 a project I led won the RPS Impact Award.
+
+For me technology allows me to make things and realise my dreams. Being able to imagine something and see it realised never ceases to excite me. From making my first electic guitar aged 11 to learning JavaScript from a book in 2020 so I could realise a commission to make an online sound installation, I love to learn, solve problems and see a project through.
 
 ## Projects
 
