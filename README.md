@@ -27,6 +27,17 @@ _Your job title_
 
 ## Skills
 
+Skills to consider:
+
+
+Innovation - finding new ways to walk a path to the same goal. New tools made during lockdown for example
+
+Project management - being able to concieve a project, and hold it through to completion, working with a broad range of people
+
+Self learner - learning new skills to achieve professional goals
+
+
+
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
@@ -54,6 +65,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+Facilitating flat structured groups in creative work
+
+As a professional artist working in the community I regularly led workshops consisting of orchestral musicians and non musicians in the making of 
+spontaneous music. It was very important to me and the projects that everyones voice was heard in this work, and also apparent that people
+bring different reservations and anxieties to this kind of work, regardless of their experience. My job was to create an environment in which
+everyone felt safe to express themselves and affirmed in their input. The result was collaborative music and art pieces that were shared 
+at shows across the country including at the Tate Modern, the Southbank Centre and Bethlem Art Gallery. CLS won the RPS impact award for 
+a project I was lead artist on. 
 
 ## Education
 
