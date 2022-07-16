@@ -24,7 +24,7 @@ London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhe
 
 ## PROFESSIONAL EXPERIENCE
 <b>Gawain Hewitt Ltd</b> • London <br>
-Owner	2003 – Present<br>
+Owner	2003 – Present<br><br>
 Harnesses technology to lead musicians in composing original music for a variety of commercial and community projects in addition to creating original music in collaboration with other artists as embedded support or an external consultant. Created and delivered successful art installations in prominent locations utilising expertise in writing code in C++, SuperCollider and JavaScript to support one-off art and music projects.<br>
 ### Sound Coding & Engineering
 * Utilised skills as a hacker and maker to code and construct installations using platforms such as Pure Data, Raspberry Pi and Arduino that were featured at famous international locations
