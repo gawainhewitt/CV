@@ -3,21 +3,21 @@
 London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhewitt.co.uk <br>
 
 ## CAREER HIGHLIGHTS
-    • Brings 19 years of experience as a freelance creative working with communities, businesses, voluntary organisations and private clients, developing technologies and driving innovation in music and art
-    • Completed Makers Software Development Bootcamp in 2022
-    • Developed software for interactive public music and art projects, winning Spaced-Out Music Challenge at MusicTech Festival 2018 in Stockholm for a device for the sonification of data (award sponsored by the Swedish National Space Agency and European Space Agency Hackathon)
-    • A pioneer of musical technology; developing DMLab project - bringing accessible instruments including guitar, musical gloves and conducting baton together with disabled musicians
-    • Lead artist for Sound Young Minds, a City of London Sinfonia project - winning Royal Philharmonic Impact Award in 2020, co-composing music with youth accessing mental health services
-    • Acted as director and licence holder for Greenbelt Festival, managing stakeholder relationships and overseeing £2M festival budget
+* Brings 19 years of experience as a freelance creative working with communities, businesses, voluntary organisations and private clients, developing technologies and driving innovation in music and art
+* Completed Makers Software Development Bootcamp in 2022
+* Developed software for interactive public music and art projects, winning Spaced-Out Music Challenge at MusicTech Festival 2018 in Stockholm for a device for the sonification of data (award sponsored by the Swedish National Space Agency and European Space Agency Hackathon)
+* A pioneer of musical technology; developing DMLab project - bringing accessible instruments including guitar, musical gloves and conducting baton together with disabled musicians
+* Lead artist for Sound Young Minds, a City of London Sinfonia project - winning Royal Philharmonic Impact Award in 2020, co-composing music with youth accessing mental health services
+* Acted as director and licence holder for Greenbelt Festival, managing stakeholder relationships and overseeing £2M festival budget
 
 ## KEY AREAS OF EXPERTISE
-    • Software Development
-    • JavaScript, Ruby, C++, REACT, Smalltalk
-    • Sound Technology (SuperCollider, Pure Data, Max MSP)
-    • Business Strategy & Budgeting 
-    • Community Engagement
-    • Project Management
-    • Team Leadership
+* Software Development
+* JavaScript, Ruby, C++, REACT, Smalltalk
+* Sound Technology (SuperCollider, Pure Data, Max MSP)
+* Business Strategy & Budgeting 
+* Community Engagement
+* Project Management
+* Team Leadership
 
 ## TRAINING
 <b>Makers</b> | Software Development Bootcamp	2022
