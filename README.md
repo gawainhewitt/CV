@@ -10,9 +10,16 @@ London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhe
 * Lead artist for Sound Young Minds, a City of London Sinfonia project - winning Royal Philharmonic Impact Award in 2020, co-composing music with youth accessing mental health services
 * Acted as director and licence holder for Greenbelt Festival, managing stakeholder relationships and overseeing £2M festival budget
 
+## Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [Trybe](https://github.com/lukestorey95/trybe-prod)| A cross platform app to build and manage a community in the supporting of achieving goals. | Expo, React Native, JavaScript, Django REST Framework, Python |
+| [Reflections](https://github.com/gawainhewitt/reflections)| An [interactive online sound installation](https://www.wigmoreinteractive.com/) for [Wigmore Hall](https://wigmore-hall.org.uk/) | JavaScript
+
 ## KEY AREAS OF EXPERTISE
 * Software Development
-* JavaScript, Ruby, C++, REACT, Smalltalk
+* JavaScript, Ruby, C++, React Native, Express, Smalltalk
 * Sound Technology (SuperCollider, Pure Data, Max MSP)
 * Business Strategy & Budgeting 
 * Community Engagement
