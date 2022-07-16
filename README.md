@@ -24,6 +24,7 @@ London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhe
 * Software Development
 * JavaScript, Ruby, C++, React Native, Express, Microcontrollers
 * Sound Technology (SuperCollider, Pure Data, Max MSP)
+* Custom electronics
 * Business Strategy & Budgeting 
 * Community Engagement
 * Project Management
