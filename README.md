@@ -16,7 +16,7 @@ London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhe
 | ---------------------------- | ----------------- | ----------------- |
 | [Trybe](https://github.com/lukestorey95/trybe-prod)| A cross platform app to build and manage a community in the supporting of achieving goals. | Expo, React Native, JavaScript, Django REST Framework, Python |
 | [Reflections](https://github.com/gawainhewitt/reflections)| An [interactive online sound installation](https://www.wigmoreinteractive.com/) for [Wigmore Hall](https://wigmore-hall.org.uk/) | JavaScript |
-| [Sonic Minds](https://github.com/gawainhewitt/brain) | An interactive sound installation for [Lewisham Music](https://www.lewishammusic.org/), cast in pewter, that triggers sounds when touched | Arduino, Teensy, C++, Custom electronics |
+| [Sonic Minds](https://github.com/gawainhewitt/brain) | An interactive sound installation for [Lewisham Music](https://www.lewishammusic.org/), cast in pewter, it triggers sounds when touched | Arduino, Teensy, C++, Custom electronics |
 | [TSDT](https://tsdthingy.github.io/) | Touchy Spacey Data Thingy is a device for the sonification of data. Created at the [Music Tech Fest](https://mtflabs.net/) hackathon in 2018, it won the Spaced Out Music Prize | C++, Arduino, Python, Max MSP |
 
 
