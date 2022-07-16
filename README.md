@@ -10,7 +10,7 @@ London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhe
 * Lead artist for Sound Young Minds, a City of London Sinfonia project - winning Royal Philharmonic Impact Award in 2020, co-composing music with youth accessing mental health services
 * Acted as director and licence holder for Greenbelt Festival, managing stakeholder relationships and overseeing £2M festival budget
 
-## Projects
+## Selected Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
