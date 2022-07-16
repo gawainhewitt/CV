@@ -1,4 +1,4 @@
-# [GAWAIN HEWITT](https://gawainhewitt.co.uk/)
+# [Gawain Hewitt](https://gawainhewitt.co.uk/)
 
 London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhewitt.co.uk <br>
 
