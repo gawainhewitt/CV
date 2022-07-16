@@ -1,4 +1,4 @@
-# GAWAIN HEWITT
+# [GAWAIN HEWITT](https://gawainhewitt.co.uk/)
 
 London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhewitt.co.uk <br>
 
@@ -15,11 +15,13 @@ London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhe
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Trybe](https://github.com/lukestorey95/trybe-prod)| A cross platform app to build and manage a community in the supporting of achieving goals. | Expo, React Native, JavaScript, Django REST Framework, Python |
-| [Reflections](https://github.com/gawainhewitt/reflections)| An [interactive online sound installation](https://www.wigmoreinteractive.com/) for [Wigmore Hall](https://wigmore-hall.org.uk/) | JavaScript
+| [Reflections](https://github.com/gawainhewitt/reflections)| An [interactive online sound installation](https://www.wigmoreinteractive.com/) for [Wigmore Hall](https://wigmore-hall.org.uk/) | JavaScript |
+| [Sonic Minds](https://github.com/gawainhewitt/brain) | An interactive sound installation, cast in pewter, that triggers sounds when touched | Arduino, Teensy, C++, Custom electronics |
+
 
 ## KEY AREAS OF EXPERTISE
 * Software Development
-* JavaScript, Ruby, C++, React Native, Express, Smalltalk
+* JavaScript, Ruby, C++, React Native, Express, Microcontrollers
 * Sound Technology (SuperCollider, Pure Data, Max MSP)
 * Business Strategy & Budgeting 
 * Community Engagement
