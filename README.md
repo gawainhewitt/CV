@@ -2,7 +2,7 @@
 
 London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhewitt.co.uk <br>
 
-[About me](#about_me) | [Things I am Proud Of](#proud) | [Tech stack](#tech-stack) | [Non Tech Stack](#non-tech-stack) | [Projects](#projects) | | [Bootcamp!](#bootcamp) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Education](#education)
+[About me](#about_me) | [Things I am Proud Of](#proud) | [Tech stack](#tech-stack) | [Non Tech Stack](#non-tech-stack) | [Projects](#projects) | [Bootcamp!](#bootcamp) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Education](#education)
 
 ## <a name="about_me">About me</a>
 
@@ -119,15 +119,15 @@ Customer Service Advisor	1997 – 1998
 
 ```mermaid
 pie title When Gawain Relaxes...
-         "Family" : 2
-         "Swimming" : 3
-         "Food" : 5
+         "Family" : 35
+         "Swimming" : 5
+         "Food" : 26
          "Books" : 9
          "Music" : 20
          "Walking" : 22
          "Pets" : 15
         "Fashion" : 18
-        "Friends" : 27
+        "Friends" : 28
         "Running" :9
         "Photography" : 12
         "Surfing" : 8
