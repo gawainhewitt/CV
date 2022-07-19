@@ -2,15 +2,23 @@
 
 London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhewitt.co.uk <br>
 
-## CAREER HIGHLIGHTS
-* Brings 19 years of experience as a freelance creative working with communities, businesses, voluntary organisations and private clients, developing technologies and driving innovation in music and art
-* Completed Makers Software Development Bootcamp in 2022
-* Developed software for interactive public music and art projects, winning Spaced-Out Music Challenge at MusicTech Festival 2018 in Stockholm for a device for the sonification of data (award sponsored by the Swedish National Space Agency and European Space Agency Hackathon)
-* A pioneer of musical technology; developing DMLab project - bringing accessible instruments including guitar, musical gloves and conducting baton together with disabled musicians
-* Lead artist for Sound Young Minds, a City of London Sinfonia project - winning Royal Philharmonic Impact Award in 2020, co-composing music with youth accessing mental health services
-* Acted as director and licence holder for Greenbelt Festival, managing stakeholder relationships and overseeing £2M festival budget
+## A brief introduction...
 
-## Projects
+I am a self starting and motivated creative <b>full stack software developer</b> with a passion for inventing, making and building new things. I am father to three children, a keen cook and I love to wild swim and spend time in nature.
+
+I have always worked in creative industrys, making music, art, scupltures, bespoke technology and running events. A lot of my career I have also worked in community projects and education projects, working with all age groups from preschool through to people living in care homes. The move into writing software has been a gradual process as my interests moved to projects that required custom firmware and software. As I explored writing it myself I found that I had a talent for it, and as I got better, a real love for the pace and possibilities of coding emerged.  
+
+I would like to work for a company that is passionate about how technology can bring about change and make a difference. With my track record in delivering ambitious projects, and my recent skills from attending [Makers Academy](https://makers.tech/) I would bring my expertise in coding, my innovative and creative approach and my experience in leading teams and working with external stakeholders to add value to your team, create products that make a difference and ensure projects I am part of are succesfully completed. 
+
+## Things I am proud of 
+* Brings 19 years of experience as a freelance creative working with communities, businesses, voluntary organisations and private clients, developing technologies and driving innovation in music and art
+* Completed [Makers](https://makers.tech/) Software Development Bootcamp in 2022
+* Developed software for interactive public music and art projects, [winning Spaced-Out Music Challenge](https://gawainhewitt.co.uk/technology#/tsdt) at MusicTech Festival 2018 in Stockholm for a device for the sonification of data (award sponsored by the Swedish National Space Agency and European Space Agency Hackathon)
+* A pioneer of musical technology; developing [DMLab project](https://gawainhewitt.co.uk/technology#/accessible-musical-instruments) - bringing accessible instruments including guitar, musical gloves and conducting baton together with disabled musicians
+* Lead artist for [Sound Young Minds](https://cityoflondonsinfonia.co.uk/wellbeing/wellbeing-projects/), a City of London Sinfonia project - winning [Royal Philharmonic Impact Award](https://cityoflondonsinfonia.wordpress.com/2020/11/19/city-of-london-sinfonia-wins-rps-impact-award-for-sound-young-minds/) in 2020, co-composing music with youth accessing mental health services
+* Acted as director and licence holder for [Greenbelt Festival](https://www.greenbelt.org.uk/), managing stakeholder relationships and overseeing £2M festival budget
+
+## Pick of my projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -20,9 +28,20 @@ London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhe
 | [TSDT](https://tsdthingy.github.io/) | Touchy Spacey Data Thingy is a device for the sonification of data. Created at the [Music Tech Fest](https://mtflabs.net/) hackathon in 2018, it won the Spaced Out Music Prize | C++, Arduino, Python, Max MSP |
 
 
-## KEY AREAS OF EXPERTISE
-* Software Development
-* JavaScript, Ruby, C++, React Native, Express, Microcontrollers
+## My Tech Stack
+
+* JavaScript (React, Node.js, Express, MongoDB, Jest, Express)
+* Ruby (Sinatra, RSpec, Capybara)
+* SuperCollider
+* Arduino (including C++)
+* Applied use of microcontrollers including electonics and custom PCB design
+* SQL (PostgreSQL, TablePlus)
+* HTML, CSS (Bootstrap)
+* Heroku, Netlify
+* Git, GitHub 
+
+## Other things I am good at
+
 * Sound Technology (SuperCollider, Pure Data, Max MSP)
 * Custom electronics
 * Business Strategy & Budgeting 
@@ -30,8 +49,28 @@ London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhe
 * Project Management
 * Team Leadership
 
-## TRAINING
-<b>Makers</b> | Software Development Bootcamp	2022
+## Bootcamp!
+<b>[Makers Academy](https://makers.tech/)</b> | Software Development Bootcamp	2022
+
+## What you get when you hire a Gawain
+
+### Technology and Software:
+
+* As the lead for the [DMLab](https://www.drakemusic.org/technology/dmlab-community/) project at [Drake Music](https://www.drakemusic.org/), I ran an experimental programme to prototype accessible instruments for disabled musicians, pioneering the use of accessible musical technology and coordinating technologists, musicians and designers to create ground-breaking instruments. 
+* Concieved, built and led [multiple public and private art projects](https://gawainhewitt.co.uk/creative) using Arduino, Teensy, C++, JavaScript, Tone.js and p5.js. Managed client relationships, budget, timings and delivery. 
+
+### Innovation and Collaboration: 
+
+* In working with renowned Norwegian percussionist [Terje Isungset](https://www.terjeisungset.no/), I created a series of recordings and performances using a hydrophone beneath an ice sheet. These pieces were then performed alongside some of Norway’s finest musicians at a headline performance at the [Ice Music Festival](https://www.icemusicfestivalnorway.no/) in Norway. 
+
+### Organisational Leadership:
+
+* By supporting the Board of Trustees of the [Greenbelt Festival](https://www.greenbelt.org.uk/) as an external consultant and licence holder, I directed the organisation of the festival in 2010, leading the senior management team and managing a budget of £2 million in addition to handling media engagements to promote the event. 
+
+### Clear communication and mentoring
+
+* Leading diverse teams of musicians from complete beginners through to professionals in the creation of spontaneously composed music. In holding this space able to get the best out of all and lead to [award winning](https://cityoflondonsinfonia.wordpress.com/2020/11/19/city-of-london-sinfonia-wins-rps-impact-award-for-sound-young-minds/) music being created where all voices are heard and valued. 
+* As spokesperson for several large arts projects I have given talks at events all over the world on the subject of creativity, inclusion and technology. Examples include [Music Tech Fest](https://mtflabs.net/), [New Instruments For Musical Expression](https://www.nime.org/) and the [Royal Academy of Music](https://www.ram.ac.uk/). 
 
 ## PROFESSIONAL EXPERIENCE
 <b>Gawain Hewitt Ltd</b> • London <br>
