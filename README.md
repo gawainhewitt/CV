@@ -8,7 +8,7 @@ London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhe
 
 I am a self starting, self motivated, creative <b>full stack software developer</b> with a passion for inventing, making and building software, firmware and physical objects. I am father to three children, a keen cook and I love to wild swim and spend time in nature.
 
-I have always worked in creative industrys, making music, art, scupltures, bespoke technology and running events. A lot of my career I have also worked in community projects and education projects, working with all age groups from preschool through to people living in care homes. The move into writing software has been a gradual process as my interests moved to projects that required custom firmware and software. As I explored writing it myself I found that I had a talent for it, and as I got better, a real love for the pace and possibilities of coding emerged.  
+I have always worked in creative industrys, making music, art, sculptures, bespoke technology and running events. A lot of my career I have also worked in community and education projects, working with all age groups from preschool through to people living in care homes. The move into writing software has been a gradual process as my interests moved to making things that required custom firmware and software. As I explored writing it myself I found that I had a talent for it, and as I got better, a real love for the pace and possibilities of coding emerged.  
 
 I would like to work for a company that is passionate about how technology can bring about change and make a difference. With my track record in delivering ambitious projects, and my recent skills from attending [Makers Academy](https://makers.tech/) I would bring my expertise in coding, my innovative and creative approach and my experience in leading teams and working with external stakeholders to add value to your team, create products that make a difference and ensure projects I am part of are succesfully completed. 
 
@@ -41,7 +41,7 @@ I would like to work for a company that is passionate about how technology can b
 * Project Management
 * Team Leadership
 
-## Pick of my projects
+## <a name="projects">Pick of my projects</a>
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
