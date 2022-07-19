@@ -2,7 +2,7 @@
 
 London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhewitt.co.uk <br>
 
-[About me](#about_me) | [Tech stack](#tech-stack) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[About me](#about_me) | [Things I am Proud Of](#proud) | [Tech stack](#tech-stack) | [Non Tech Stack](#non-tech-stack) | [Projects](#projects) | | [Bootcamp!](#bootcamp) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Education](#education)
 
 ## <a name="about_me">About me</a>
 
@@ -20,18 +20,7 @@ I would like to work for a company that is passionate about how technology can b
 * Lead artist for [Sound Young Minds](https://cityoflondonsinfonia.co.uk/wellbeing/wellbeing-projects/), a City of London Sinfonia project - winning [Royal Philharmonic Impact Award](https://cityoflondonsinfonia.wordpress.com/2020/11/19/city-of-london-sinfonia-wins-rps-impact-award-for-sound-young-minds/) in 2020, co-composing music with youth accessing mental health services
 * Acted as director and licence holder for [Greenbelt Festival](https://www.greenbelt.org.uk/), managing stakeholder relationships and overseeing £2M festival budget
 
-## Pick of my projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [Trybe](https://github.com/lukestorey95/trybe-prod)| A cross platform app to build and manage a community in the supporting of achieving goals | Expo, React Native, JavaScript, Django REST Framework, Python |
-| [Reflections](https://github.com/gawainhewitt/reflections)| An [interactive online sound installation](https://www.wigmoreinteractive.com/) for [Wigmore Hall](https://wigmore-hall.org.uk/) | JavaScript |
-| [Sonic Minds](https://github.com/gawainhewitt/brain) | An interactive sound installation for [Lewisham Music](https://www.lewishammusic.org/), cast in pewter, it triggers sounds when touched | Arduino, Teensy, C++, Custom electronics |
-| [TSDT](https://tsdthingy.github.io/) | Touchy Spacey Data Thingy is a device for the sonification of data. Created at the [Music Tech Fest](https://mtflabs.net/) hackathon in 2018, it won the Spaced Out Music Prize | C++, Arduino, Python, Max MSP |
-
-
 ## <a name="tech-stack">My Tech Stack</a>
-
 
 * JavaScript (React, Node.js, Express, MongoDB, Jest, Express)
 * Ruby (Sinatra, RSpec, Capybara)
@@ -43,7 +32,7 @@ I would like to work for a company that is passionate about how technology can b
 * Heroku, Netlify
 * Git, GitHub 
 
-## Other things I am good at
+## <a name="non-tech-stack">Non Tech stack</a>
 
 * Sound Technology (SuperCollider, Pure Data, Max MSP)
 * Custom electronics
@@ -52,10 +41,19 @@ I would like to work for a company that is passionate about how technology can b
 * Project Management
 * Team Leadership
 
-## Bootcamp!
+## Pick of my projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [Trybe](https://github.com/lukestorey95/trybe-prod)| A cross platform app to build and manage a community in the supporting of achieving goals | Expo, React Native, JavaScript, Django REST Framework, Python |
+| [Reflections](https://github.com/gawainhewitt/reflections)| An [interactive online sound installation](https://www.wigmoreinteractive.com/) for [Wigmore Hall](https://wigmore-hall.org.uk/) | JavaScript |
+| [Sonic Minds](https://github.com/gawainhewitt/brain) | An interactive sound installation for [Lewisham Music](https://www.lewishammusic.org/), cast in pewter, it triggers sounds when touched | Arduino, Teensy, C++, Custom electronics |
+| [TSDT](https://tsdthingy.github.io/) | Touchy Spacey Data Thingy is a device for the sonification of data. Created at the [Music Tech Fest](https://mtflabs.net/) hackathon in 2018, it won the Spaced Out Music Prize | C++, Arduino, Python, Max MSP |
+
+## <a name="bootcamp">Bootcamp!</a>
 <b>[Makers Academy](https://makers.tech/)</b> | Software Development Bootcamp	2022
 
-## What you get when you hire a Gawain
+## <a name="skills">What you get when you hire a Gawain</a>
 
 ### Technology and Software:
 
@@ -75,7 +73,7 @@ I would like to work for a company that is passionate about how technology can b
 * Leading diverse teams of musicians from complete beginners through to professionals in the creation of spontaneously composed music. In holding this space able to get the best out of all and lead to [award winning](https://cityoflondonsinfonia.wordpress.com/2020/11/19/city-of-london-sinfonia-wins-rps-impact-award-for-sound-young-minds/) music being created where all voices are heard and valued. 
 * As spokesperson for several large arts projects I have given talks at events all over the world on the subject of creativity, inclusion and technology. Examples include [Music Tech Fest](https://mtflabs.net/), [New Instruments For Musical Expression](https://www.nime.org/) and the [Royal Academy of Music](https://www.ram.ac.uk/). 
 
-## PROFESSIONAL EXPERIENCE
+## <a name="experience">PROFESSIONAL EXPERIENCE</a>
 <b>Gawain Hewitt Ltd</b> • London <br>
 Owner	2003 – Present<br><br>
 Harnesses technology to lead musicians in composing original music for a variety of commercial and community projects in addition to creating original music in collaboration with other artists as embedded support or an external consultant. Created and delivered successful art installations in prominent locations utilising expertise in writing code in C++, SuperCollider and JavaScript to support one-off art and music projects.<br>
@@ -116,7 +114,26 @@ Office Restructuring Team Project Coordinator	2001 – 2001<br>
 Customer Service Team Leader	1998 – 2001<br>
 <b>Potterton </b>• London<br>
 Customer Service Advisor	1997 – 1998
-### EDUCATION
+
+## <a name="interests">When I'm not coding (Interests)</a>
+
+```mermaid
+pie title When Gawain Relaxes...
+         "Family" : 2
+         "Swimming" : 3
+         "Food" : 5
+         "Books" : 9
+         "Music" : 20
+         "Walking" : 22
+         "Pets" : 15
+        "Fashion" : 18
+        "Friends" : 27
+        "Running" :9
+        "Photography" : 12
+        "Surfing" : 8
+```
+
+## <a name="education">EDUCATION</a>
 <b>Royal Welsh College of Music & Drama</b> • Cardiff, UK <br>
 Master of Music in Creative Music Technology	2017<br>
 <b>Community Music and London Metropolitan University </b> • London, UK <br>
