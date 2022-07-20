@@ -53,7 +53,7 @@ I would like to work for a company that is passionate about how technology can b
 * Heroku, Netlify
 * Git, GitHub 
 
-## <a name="non-tech-stack">Non Tech stack</a>
+## <a name="non-tech-stack">Not Tech stack</a>
 
 * Sound Technology (SuperCollider, Pure Data, Max MSP)
 * Custom electronics
