@@ -5,10 +5,10 @@
 gitGraph
        commit id: "Music"
        commit id: "Art"
-       commit id: "Embedded Systems"
+       commit id: "Embedded"
        commit id: "Arduino"
        commit id: "JavaScript"
-       commit id: "Refine learning"
+       commit id: "Learn"
        branch Makers
        checkout Makers
        commit id: "TDD"
