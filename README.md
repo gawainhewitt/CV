@@ -27,7 +27,7 @@ gitGraph
 
 ## <a name="about_me">About me</a>
 
-I am a self starting, self motivated, creative <b>full stack software developer</b> with a passion for inventing, making and building software, firmware and physical objects. I am father to three children, a keen cook and I love to wild swim and spend time in nature.
+I am a self starting, self motivated, creative <b>full stack software developer</b> with a passion for [inventing](https://gawainhewitt.co.uk/technology#/accessible-musical-instruments), [making](https://gawainhewitt.co.uk/creative#/sonic-minds) and building [software](https://gawainhewitt.co.uk/technology#/reflections), [firmware](https://gawainhewitt.co.uk/creative#/home-from-home) and [physical objects](https://gawainhewitt.co.uk/creative#/please-touch). I am father to three children, a keen cook and I love to wild swim and spend time in nature.
 
 I have always worked in creative industrys, making music, art, sculptures, bespoke technology and running events. A lot of my career I have also worked in community and education projects, working with all age groups from preschool through to people living in care homes. The move into writing software has been a gradual process as my interests moved to making things that required custom firmware and software. As I explored writing it myself I found that I had a talent for it, and as I got better, a real love for the pace and possibilities of coding emerged.  
 
