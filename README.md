@@ -12,8 +12,9 @@ gitGraph
        branch Makers
        checkout Makers
        commit id: "TDD"
-       commit id: "Pair Programming"
-       commit id: "Team Project"
+       commit id: "Ruby"
+       commit id: "Pairing"
+       commit id: "Projects"
        checkout main
        merge Makers
        commit id: "Excited for my future"
