@@ -8,7 +8,7 @@
 gitGraph
        commit id: "Music"
        commit id: "Art"
-       commit id: "Embedded"
+       commit id: "Education"
        commit id: "Arduino"
        commit id: "JavaScript"
        commit id: "Learn"
