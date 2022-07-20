@@ -1,6 +1,6 @@
-<h1 style="text-align: center">Gawain Hewitt</h1>
+<h1 align="center">Gawain Hewitt</h1>
 
-<p style="text-align: center">London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhewitt.co.uk • www.gawainhewitt.co.uk<p>
+<p align="center">London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhewitt.co.uk • www.gawainhewitt.co.uk<p>
 <br>
 
 ```mermaid
