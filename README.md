@@ -23,7 +23,7 @@ gitGraph
        commit id: "The future"
 ```
 
-[About](#about_me) | [I am proud of...](#proud) | [Tech stack](#tech-stack) | [!Tech Stack](#non-tech-stack) | [Projects](#projects) | [Bootcamp!](#bootcamp) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Education](#education)
+[About](#about_me) | [I am proud of...](#proud) | [Tech stack](#tech-stack) | [!Tech Stack](#non-tech-stack) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Education](#education)
 
 ## <a name="about_me">About me</a>
 
@@ -70,9 +70,6 @@ I would like to work for a company that is passionate about how technology can b
 | [Reflections](https://github.com/gawainhewitt/reflections)| An [interactive online sound installation](https://www.wigmoreinteractive.com/) for [Wigmore Hall](https://wigmore-hall.org.uk/) | JavaScript |
 | [Sonic Minds](https://github.com/gawainhewitt/brain) | An interactive sound installation for [Lewisham Music](https://www.lewishammusic.org/), cast in pewter, it triggers sounds when touched | Arduino, Teensy, C++, Custom electronics |
 | [TSDT](https://tsdthingy.github.io/) | Touchy Spacey Data Thingy is a device for the sonification of data. Created at the [Music Tech Fest](https://mtflabs.net/) hackathon in 2018, it won the Spaced Out Music Prize | C++, Arduino, Python, Max MSP |
-
-## <a name="bootcamp">Bootcamp!</a>
-<b>[Makers Academy](https://makers.tech/)</b> | Software Development Bootcamp	2022
 
 ## <a name="skills">What you get when you hire a Gawain</a>
 
@@ -155,7 +152,8 @@ pie title When Gawain Relaxes...
 ```
 
 ## <a name="education">EDUCATION</a>
-<b>Royal Welsh College of Music & Drama</b> • Cardiff, UK <br>
+<b>[Makers Academy](https://makers.tech/)</b> | Software Development Bootcamp	2022 <br><br>
+<b>Royal Welsh College of Music & Drama</b> | Cardiff, UK <br>
 Master of Music in Creative Music Technology	2017<br>
-<b>Community Music and London Metropolitan University </b> • London, UK <br>
+<b>Community Music and London Metropolitan University </b> | London, UK <br>
 Music Tutor Training Course	2004
