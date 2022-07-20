@@ -1,5 +1,24 @@
 # [Gawain Hewitt](https://gawainhewitt.co.uk/)
 
+```mermaid
+
+gitGraph
+       commit id: "Music"
+       commit id: "Art"
+       commit id: "Embedded Systems"
+       commit id: "Arduino"
+       commit id: "JavaScript"
+       commit id: "Refine learning"
+       branch Makers
+       checkout Makers
+       commit id: "TDD"
+       commit id: "Pair Programming"
+       commit id: "Team Project"
+       checkout main
+       merge Makers
+       commit id: "Excited for my future"
+```
+
 London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhewitt.co.uk <br>
 
 [About](#about_me) | [Things I am proud of](#proud) | [Tech stack](#tech-stack) | [!Tech Stack](#non-tech-stack) | [Projects](#projects) | [Bootcamp!](#bootcamp) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Education](#education)
