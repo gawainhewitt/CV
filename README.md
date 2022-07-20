@@ -1,5 +1,7 @@
 # [Gawain Hewitt](https://gawainhewitt.co.uk/)
 
+London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhewitt.co.uk <br>
+
 ```mermaid
 
 gitGraph
@@ -19,8 +21,6 @@ gitGraph
        merge Makers
        commit id: "Excited for my future"
 ```
-
-London, UK • linkedin.com/in/gawainhewitt • 07817 317728 • gawain@gawainhewitt.co.uk <br>
 
 [About](#about_me) | [Things I am proud of](#proud) | [Tech stack](#tech-stack) | [!Tech Stack](#non-tech-stack) | [Projects](#projects) | [Bootcamp!](#bootcamp) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Education](#education)
 
