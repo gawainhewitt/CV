@@ -20,7 +20,7 @@ gitGraph
        commit id: "Projects"
        checkout main
        merge Makers
-       commit id: "Excited for my future"
+       commit id: "The future"
 ```
 
 [About](#about_me) | [I am proud of...](#proud) | [Tech stack](#tech-stack) | [!Tech Stack](#non-tech-stack) | [Projects](#projects) | [Bootcamp!](#bootcamp) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Education](#education)
