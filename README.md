@@ -153,7 +153,7 @@ pie title When Gawain Relaxes...
 
 ## <a name="education">EDUCATION</a>
 <b>[Makers Academy](https://makers.tech/)</b> | Software Development Bootcamp	2022 <br><br>
-<b>Royal Welsh College of Music & Drama</b> | Cardiff, UK <br>
+<b>Royal Welsh College of Music & Drama</b> | Cardiff, UK <br><br>
 Master of Music in Creative Music Technology	2017<br>
 <b>Community Music and London Metropolitan University </b> | London, UK <br>
 Music Tutor Training Course	2004
