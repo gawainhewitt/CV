@@ -23,7 +23,7 @@ gitGraph
        commit id: "Excited for my future"
 ```
 
-[About](#about_me) | [Things I am proud of](#proud) | [Tech stack](#tech-stack) | [!Tech Stack](#non-tech-stack) | [Projects](#projects) | [Bootcamp!](#bootcamp) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Education](#education)
+[About](#about_me) | [I am proud of...](#proud) | [Tech stack](#tech-stack) | [!Tech Stack](#non-tech-stack) | [Projects](#projects) | [Bootcamp!](#bootcamp) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Education](#education)
 
 ## <a name="about_me">About me</a>
 
